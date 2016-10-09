@@ -1,0 +1,11 @@
+# Ignore Everything except DesktopModules
+
+/*
+!.gitignore
+!DesktopModules/
+
+# Ignore Everything in DesktopModules except jsears
+
+DesktopModules/*
+!DesktopModules/jsears/
+!DesktopModules/jsears/*
